@@ -6,7 +6,7 @@ To install and run for Android :
 * npm install && react-native run-android
 
 ## Screenshots
+<img src="https://github.com/FirasHmedi/PicsVids/blob/master/screenshots/Screenshot_1652151621.png" width="300" title="pic3">
 <img src="https://github.com/FirasHmedi/PicsVids/blob/master/screenshots/Screenshot_1652151651.png" width="300" title="list">
 <img src="https://github.com/FirasHmedi/PicsVids/blob/master/screenshots/Screenshot_1652151546.png" width="300" title="pic2">
-<img src="https://github.com/FirasHmedi/PicsVids/blob/master/screenshots/Screenshot_1652151621.png" width="300" title="pic3">
 <img src="https://github.com/FirasHmedi/PicsVids/blob/master/screenshots/Screenshot_1652151640.png" width="300" title="pic4">
